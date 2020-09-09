@@ -1,0 +1,58 @@
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\PF2S8.2.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\PF2S8.2.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\PF2S8.2.csproj.CopyComplete
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Andrea\Desktop\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\PF2S8.2.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\PF2S8.2.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\PF2S8.2.csproj.CopyComplete
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Andrea\Desktop\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\PF2S8.2.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\PF2S8.2.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\PF2S8.2.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Andrea\Desktop\Zimski semestar\Rac. GRAFIKA\ProjekatAndrea\ProjekatRG\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
